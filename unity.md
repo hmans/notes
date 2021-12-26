@@ -10,4 +10,5 @@
 
 ### Useful Packages
 
+- [Open Source Unity Package Registry](https://openupm.com/) aka OpenUPM. Use this to install non-Asset Store packages available on the net.
 - [Smart Inspector](https://github.com/neon-age/Smart-Inspector) cleans up your inspector by giving you direct-access tabs for commonly used components.
