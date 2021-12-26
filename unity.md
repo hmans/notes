@@ -1,5 +1,9 @@
 # Unity
 
+A collection of notes, links and tips collected through my own Unity learning journey. Please don't read this a full guide or anything; it's just stuff that I've picked up and wanted to keep for later. (But maybe you will find it useful, too!)
+
+Questions/suggestions? I'm [@hmans on Twitter](https://twitter.com/hmans).
+
 ### Tips & Tweaks
 
 - `npx gitignore unity` will set up a `.gitignore` file for your Unity project (powered by the [gitignore](https://github.com/github/gitignore) repository.)
