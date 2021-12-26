@@ -6,13 +6,9 @@ Questions/suggestions? I'm [@hmans on Twitter](https://twitter.com/hmans).
 
 ### Tips & Tweaks
 
+- [Unity Development with Visual Studio Code](https://code.visualstudio.com/docs/other/unity), if you're using that editor (as I am.)
 - [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity) contains some general advice on how to properly set up Unity to work (well) with Git repositories. Last updated 2019, so not 100% up to date, but a good starting point nonetheless.
 - `npx gitignore unity` will set up a `.gitignore` file for your Unity project (powered by the [gitignore](https://github.com/github/gitignore) repository.)
-
-
-### Resources
-
-- [Unity Development with Visual Studio Code](https://code.visualstudio.com/docs/other/unity), if you're using that editor (as I am.)
 
 ### Useful Packages
 
