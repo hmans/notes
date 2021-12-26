@@ -1,0 +1,2 @@
+# notes
+Assorted (learning) notes.
