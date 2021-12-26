@@ -6,7 +6,7 @@
 
 ### Resources
 
-- [Unity Development with Visual Studio Code](https://code.visualstudio.com/docs/other/unity)
+- [Unity Development with Visual Studio Code](https://code.visualstudio.com/docs/other/unity), if you're using that editor (as I am.)
 
 ### Useful Packages
 
