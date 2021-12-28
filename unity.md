@@ -18,3 +18,4 @@ Questions/suggestions? I'm [@hmans on Twitter](https://twitter.com/hmans).
 
 - [Open Source Unity Package Registry](https://openupm.com/) aka OpenUPM. Use this to install non-Asset Store packages available on the net.
 - [Smart Inspector](https://github.com/neon-age/Smart-Inspector) cleans up your inspector by giving you direct-access tabs for commonly used components.
+- [Screenshotter](https://github.com/neon8100/screenshotter), "a simple Camera controller plug-in for Unity that is designed to make the process of gameplay screenshots fast, easy and flexible! It allows you to fly around your scene with a game-pad to line-up a shot and adjust a Depth of Field post-process on the camera without interacting with controls in the editor."
